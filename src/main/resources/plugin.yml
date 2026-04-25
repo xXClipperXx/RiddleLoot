@@ -1,0 +1,9 @@
+name: RiddleLoot
+main: com.example.riddleloot.RiddleLoot
+version: 1.0.0
+api-version: 1.19
+commands:
+  riddle:
+    description: "Engage with a riddle"
+    usage: "/riddle"
+depend: ["Vault"]
